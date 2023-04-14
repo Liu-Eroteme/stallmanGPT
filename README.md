@@ -43,7 +43,7 @@ StallmanGPT will generate a Linux command that accomplishes the requested task, 
 ## to do
 
 So much, give the ai info about the os, better prompts, better model choices, UX, .. 
-
+Oh and fix this readme, it kinda sucks
 TBH, idk if i have the energy to actually build this out but hey, we'll see and now it's out there so
 
 ## License
