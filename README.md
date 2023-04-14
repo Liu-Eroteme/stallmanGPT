@@ -40,6 +40,12 @@ StallmanGPT will generate a Linux command that accomplishes the requested task, 
 * Implements error handling for OpenAI API usage limits and confidence rating parsing.
 * Limits the number of user-initiated retries to 3.
 
+## to do
+
+So much, give the ai info about the os, better prompts, better model choices, UX, .. 
+
+TBH, idk if i have the energy to actually build this out but hey, we'll see and now it's out there so
+
 ## License
 
 This project is licensed under the MIT License.
