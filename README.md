@@ -5,7 +5,9 @@ StallmanGPT is a Linux command generator and assistant using OpenAI GPT-3.5-turb
 The future plan for this is pretty simple: Develop StallmanGPT into an autonomous agent running contnuously, taking care of your system and helping you out where needed - i've got my roadmap on a whiteboard but have other work to finish first. Want this sooner? Gimme money (this is a joke but seriously, im independent and kinda broke) but no fr, whats holding me back the most is: my personal openAI API account no has GPT4 API access...
 (there's ways but not worth for this) and after comparing the linux skills... no way im building and testing on GPT3.5
 
-Someone make it so org-1nO0CK24y9gbenTfsjKfYvCK gets GPT4 access and I'll put a week straight into this :3
+Someone make it so org-1nO0CK24y9gbenTfsjKfYvCK gets GPT4 access and I'll put a week straight into this :3 
+
+And it's needed - this code? barely an MVP. The prompts? Crap. 
 
 ## Installation
 
